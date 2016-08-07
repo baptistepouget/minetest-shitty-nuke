@@ -1,4 +1,4 @@
-Minetest Game mod: shitty-nuke
+Minetest Game mod: nuke
 ======================
 Original by PilzAdam and ShadowNinja
 
